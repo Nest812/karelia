@@ -231,5 +231,4 @@ UDP (User Datagram Protocol) – быстрая передача без гара
 Выбор протокола и формата 
 1.	для webAPI (HTTPS и JSON)
 2.	стриминга, чатов, соцсетей (websocet + message par)
-3.	для тестирования API (postman и свагер)
-
+3.	для тестирования API 

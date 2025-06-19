@@ -144,7 +144,7 @@ body {
    margin-right: 10px; /* Отступ между иконкой и списком */
 }
 
-.penis {
+.bruh {
    figure {
       color: white;
       text-align: center;
@@ -172,7 +172,7 @@ body {
    background-size: cover;
    justify-content: left;
 }
-.penis1 {
+.bruh1 {
    padding-bottom: 0px;
 }
 .body1 {
@@ -180,26 +180,29 @@ body {
    background-size: cover;
 }
 
-.penis2 {
+.bruh2 {
    font-size: 70px;
 }
 
-.onas {
+.amamam {
    background-image: url(../../assets/images/EE3FEC1F-E548-4470-B.jpeg);
    background-size: cover;
-   align-items: center;
+   align-items: left;
    display: flex;
    flex-direction: column;
    gap: 20px;
+   font-size: 50px;
+   color: #1ff35f;
+
 }
 
-.onas-content {
+.amam-content {
    display: flex;
    justify-content: space-between;
 }
 
-.onas-text {
-    background-color: #696969;
+.amam-text {
+    background-color: #00640888;
     height: max-content;
     padding: 16px;
     border-radius: 20px;
@@ -220,4 +223,7 @@ body {
         width: 60px;
         height: 60px;
     }
+}
+.amam-icons {
+
 }
